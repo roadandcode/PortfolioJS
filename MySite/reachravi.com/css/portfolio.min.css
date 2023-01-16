@@ -248,7 +248,7 @@ fieldset[disabled] .btn-xl:hover {
 
 header {
     background-image: url(../img/bg5.jpg);
-    background-repeat: no-repeat;
+    /* background-repeat: no-repeat; */
     background-attachment: scroll;
     background-position: center center;
     -webkit-background-size: cover;
@@ -256,7 +256,7 @@ header {
     background-size: cover;
     -o-background-size: cover;
     text-align: center;
-    color: #fff
+    color: rgb(255, 155, 155)
 }
 
 header .intro-text {
